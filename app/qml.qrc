@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/Resources.js</file>
+        <file>qml/Sample.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/CPButton.qml</file>
+        <file>qml/CPDescContradictionMatrix.qml</file>
+        <file>qml/CPDescEngineeringVariable.qml</file>
+        <file>qml/CPDescText.qml</file>
+        <file>qml/CPExtendableLabel.qml</file>
+        <file>qml/CPListViewMatrix.qml</file>
+        <file>qml/CPPopup.qml</file>
+        <file>qml/CPSelector.qml</file>
+        <file>qml/CPSubtitle.qml</file>
+        <file>qml/CPText.qml</file>
+        <file>qml/CPTextEdit.qml</file>
+        <file>qml/CPToast.qml</file>
+        <file>qml/LYMargin.qml</file>
+        <file>qml/Paper.qml</file>
+        <file>qml/VWEngineering.qml</file>
+        <file>qml/VWMain.qml</file>
+        <file>qml/VWMatrix.qml</file>
+    </qresource>
+</RCC>

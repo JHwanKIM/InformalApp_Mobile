@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/sample/CPButton.qml</file>
+        <file>qml/sample/CPDescContradictionMatrix.qml</file>
+        <file>qml/sample/CPDescEngineeringVariable.qml</file>
+        <file>qml/sample/CPDescText.qml</file>
+        <file>qml/sample/CPExtendableLabel.qml</file>
+        <file>qml/sample/CPListViewMatrix.qml</file>
+        <file>qml/sample/CPPopup.qml</file>
+        <file>qml/sample/CPSelector.qml</file>
+        <file>qml/sample/CPSubtitle.qml</file>
+        <file>qml/sample/CPText.qml</file>
+        <file>qml/sample/CPTextEdit.qml</file>
+        <file>qml/sample/CPToast.qml</file>
+        <file>qml/sample/LYMargin.qml</file>
+        <file>qml/sample/Paper.qml</file>
+        <file>qml/sample/VWEngineering.qml</file>
+        <file>qml/sample/VWMain.qml</file>
+        <file>qml/sample/VWMatrix.qml</file>
+        <file>qml/sample/main.qml</file>
+        <file>qml/sample/Resources.js</file>
+    </qresource>
+</RCC>
